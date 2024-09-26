@@ -1,4 +1,4 @@
-MANIPULAÇÕES DE DADOS PARA ENCONTRAR DIVERGÊNCIAS EM PAGAMENTOS.
+**MANIPULAÇÕES DE DADOS PARA ENCONTRAR DIVERGÊNCIAS EM PAGAMENTOS.**
 
 O projeto analisa duas tabelas .csv que estão armazenadas dentro da pasta
 'data_raw', no qual uma está preenchida com dados referente a vendas de
@@ -6,7 +6,7 @@ vendedores com o nome de 'vendas.csv', e o outro arquivo armazena dados de
 pagamentos aos vendedores referente às comissões sobre as vendas Intitulado de
 'pagamentos.csv'.
 
-FUNCIONALIDADES
+**FUNCIONALIDADES**
 
 O projeto tem dois pipelines de dados que se encontram dentro da pasta 'scripts',
 no qual o denominado de nome 'table_comissao.py' analisa os dados do arquivo
@@ -20,12 +20,12 @@ o valor pago incorretamente e o valor que deveria ter sido pago.
 
 O resultado dos pipelines de dados se encontram dentro da pasta 'data_processed'
 
-INSTALAÇÕES
+**INSTALAÇÕES**
 
 Para rodar o projeto, é necessário instalações de métodos, os requisitos estão
 expostos no arquivo 'requirements.txt'
 
-PASSO A PASSO
+**PASSO A PASSO**
 
 1° Clone o repositório:
 
